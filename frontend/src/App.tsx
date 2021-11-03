@@ -1,11 +1,19 @@
-import React from 'react';
+import NavBar from "components/NavBar";
+import Footer from "components/Footer";
+import DataTable from "components/DataTable";
+
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 function App() {
   return (
-    <div>
-      <h1>olá, mundo!</h1>
-    </div>
+    <>
+      <NavBar />
+      <div className="container">
+        <DataTable />
+      </div>
+      <Footer />
+    </>
   );
 }
 

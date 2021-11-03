@@ -21,6 +21,7 @@ html, body {
 .footer {
     flex-shrink: 0;
     text-align: center;
+    text-decoration: none;
 }
 
 .bg-primary {
@@ -30,3 +31,9 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
+
+a:link {
+    text-decoration:none;
+    color: #fff;
+}
+
