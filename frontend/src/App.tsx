@@ -16,7 +16,7 @@ function App() {
         <div className="row px-3">
           <div className="col-sm-6">
             <h5 className="text-center text-secundary">Taxas de Sucesso (%)</h5>
-              <BarChart />
+            <BarChart />
           </div>
 
             <div className="col-sm-6">
