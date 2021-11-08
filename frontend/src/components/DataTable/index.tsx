@@ -4,7 +4,6 @@ import { formatLocalDate } from "components/utils/format";
 import { Base_URL } from "components/utils/requests";
 import { useEffect, useState } from "react";
 import { SalePage } from "types/sale";
-import { isTypeNode } from "typescript";
 
 const DataTable = () => {
   const [activePage, setActivePage] = useState(0);
