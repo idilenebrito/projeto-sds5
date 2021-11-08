@@ -3,6 +3,9 @@
 ## Sobre o projeto
 Projeto desenvolvido na Semana Spring React pela DevSuperior com objetivo de desenvolver um Dashboard de vendas.
 
+## Link do Deploy
+https://devsuperior-idilenebrito.netlify.app/
+
 ## Layouts
 
 ### Página Home
