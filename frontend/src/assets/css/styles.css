@@ -39,3 +39,9 @@ a:link {
 a {
     color: white;
 }
+/*row d-flex justify-content-center*/
+
+.center{
+    display: flex;
+    justify-content: center;
+}
